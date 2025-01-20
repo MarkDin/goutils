@@ -2,7 +2,7 @@ module github.com/idoubi/goutils
 
 go 1.13
 
-replace github.com/idoubi/goz => github.com/MarkDin/goz v1.0.2
+replace github.com/idoubi/goz => github.com/MarkDin/goz v1.0.3
 
 require (
 	github.com/basgys/goxml2json v1.1.0
