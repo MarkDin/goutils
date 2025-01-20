@@ -2,6 +2,8 @@ module github.com/idoubi/goutils
 
 go 1.13
 
+replace github.com/idoubi/goz => github.com/MarkDin/goz v1.0.1
+
 require (
 	github.com/basgys/goxml2json v1.1.0
 	github.com/bwmarrin/snowflake v0.3.0
