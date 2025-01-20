@@ -1,7 +1,7 @@
 github.com/MarkDin/eventsource v1.0.1 h1:EJ27ZJvfbH6q/dBG+jTe1oc+xiSf8zygMGFcXejoWfg=
 github.com/MarkDin/eventsource v1.0.1/go.mod h1:qiJeA0NbvJ0Szd0Czn+PnkUaEIgWEsM/8DXcQ8anytY=
-github.com/MarkDin/goz v1.0.1 h1:dxNAeRuEo1BmyCovJPGFkxHcOn+8R9GOw8GsLBKViLs=
-github.com/MarkDin/goz v1.0.1/go.mod h1:Tduj/eIHuXleHeysu+cgNbGiOwTd/ke2HT4BQNtrMXo=
+github.com/MarkDin/goz v1.0.2 h1:csms27obj6WgziCd+i3QXb/3NiNd1nIUzVwn0gwFkQc=
+github.com/MarkDin/goz v1.0.2/go.mod h1:Tduj/eIHuXleHeysu+cgNbGiOwTd/ke2HT4BQNtrMXo=
 github.com/basgys/goxml2json v1.1.0 h1:4ln5i4rseYfXNd86lGEB+Vi652IsIXIvggKM/BhUKVw=
 github.com/basgys/goxml2json v1.1.0/go.mod h1:wH7a5Np/Q4QoECFIU8zTQlZwZkrilY0itPfecMw41Dw=
 github.com/bitly/go-simplejson v0.5.0 h1:6IH+V8/tVMab511d5bn4M7EwGXZf9Hj6i2xSwkNEM+Y=
